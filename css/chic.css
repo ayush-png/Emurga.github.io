@@ -1,0 +1,195 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container1{
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.container2{
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.container3{
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+.blog{
+	margin-top: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 0.5rem;
+	background: url(https://cdn.pixabay.com/photo/2015/12/01/15/43/black-1072366_1280.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity:2.9;
+}
+.blog1{
+	font-family: Hawaii 5-0, sans-serif;
+	text-align: center;
+}
+.box1{
+	text-align: center;
+	margin-top: 10px;
+}
+.footer{
+	background: url(https://cdn.pixabay.com/photo/2016/12/26/17/28/food-1932466_1280.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 3.4;
+	color: white;
+	text-align: center;
+	margin-top: 15px;
+
+}
+@media only screen and (max-width: 500px){
+	.container1{
+		flex-direction: column;
+		margin-left: 100px;
+}
+@media only screen and (max-width: 500px){
+	.container2{
+		flex-direction: column;
+		margin-left: 100px;
+}
+@media only screen and (max-width: 500px){
+	.container3{
+		flex-direction: column;
+		margin-left: 100px;
+}
+@media only screen and (max-width: 500px){
+	.blog{
+		flex-direction: column;
+		margin-left: 100px;
+}
+@media only screen and (max-width: 472px){
+	.container1{
+		flex-direction: column;
+		margin-left: 85px;
+}
+@media only screen and (max-width: 472px){
+	.container2{
+		flex-direction: column;
+		margin-left: 85px;
+}
+@media only screen and (max-width: 472px){
+	.container3{
+		flex-direction: column;
+		margin-left: 85px;
+}
+@media only screen and (max-width: 472px){
+	.blog{
+		flex-direction: column;
+		margin-left: 85px;
+}
+@media only screen and (max-width: 436px){
+	.container1{
+		flex-direction: column;
+		margin-left: 65px;
+}
+@media only screen and (max-width: 436px){
+	.container2{
+		flex-direction: column;
+		margin-left: 65px;
+}
+@media only screen and (max-width: 436px){
+	.container3{
+		flex-direction: column;
+		margin-left: 65px;
+}
+@media only screen and (max-width: 436px){
+	.blog{
+		flex-direction: column;
+		margin-left: 65px;
+}
+@media only screen and (max-width: 416px){
+	.container1{
+		flex-direction: column;
+		margin-left: 50px;
+}
+@media only screen and (max-width: 416px){
+	.container2{
+		flex-direction: column;
+		margin-left: 50px;
+}
+@media only screen and (max-width: 416px){
+	.container3{
+		flex-direction: column;
+		margin-left: 50px;
+}
+@media only screen and (max-width: 416px){
+	.blog{
+		flex-direction: column;
+		margin-left: 50px;
+}
+@media only screen and (max-width: 390px){
+	.container1{
+		flex-direction: column;
+		margin-left: 35px;
+}
+@media only screen and (max-width: 390px){
+	.container2{
+		flex-direction: column;
+		margin-left: 35px;
+}
+@media only screen and (max-width: 390px){
+	.container3{
+		flex-direction: column;
+		margin-left: 35px;
+}
+@media only screen and (max-width: 390px){
+	.blog{
+		flex-direction: column;
+		margin-left: 35px;
+}
+@media only screen and (max-width: 358px){
+	.container1{
+		flex-direction: column;
+		margin-left: 25px;
+}
+@media only screen and (max-width: 358px){
+	.container2{
+		flex-direction: column;
+		margin-left: 25px;
+}
+@media only screen and (max-width: 358px){
+	.container3{
+		flex-direction: column;
+		margin-left: 25px;
+}
+@media only screen and (max-width: 358px){
+	.blog{
+		flex-direction: column;
+		margin-left: 25px;
+}
+@media only screen and (max-width: 334px){
+	.container1{
+		flex-direction: column;
+		margin-left: 17px;
+}
+@media only screen and (max-width: 334px){
+	.container2{
+		flex-direction: column;
+		margin-left: 17px;
+}
+@media only screen and (max-width: 334px){
+	.container3{
+		flex-direction: column;
+		margin-left: 17px;
+}
+@media only screen and (max-width: 334px){
+	.blog{
+		flex-direction: column;
+		margin-left: 17px;
+}
